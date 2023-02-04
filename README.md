@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm Sagarika. 🙋‍♀️🌷
+
+👩‍💻 I'm an undergraduate student at Columbia University (SEAS) studying Computer Science and Economics!
+🌎 I've previously interned at NASA and Google! 
+🌱 I'm interested in Computer Vision and Machine Learning.
+😄 Pronouns: she/her/hers
+
+
 
 <!--
 **sagarika5946/sagarika5946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
