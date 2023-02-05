@@ -8,6 +8,12 @@
 
 😄 Pronouns: she/her/hers
 
+### Languages and tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,go,java,matlab,pytorch,tensorflow,mysql,vim,vscode,git,latex,figma,postman,gcp,aws,&perline=4" />
+</a>
+
 
 
 <!--
